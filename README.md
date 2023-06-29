@@ -1,18 +1,17 @@
 ### Opaa, tudo bem? :eyes:
 
-  Eu sou Leonardo Bruno, Atualmente estudo para me tornar um Desenvolvedor full stack. <br>
-  Estou aprendendo e desenvolvendo alguns projetos com o uso de:
+  Eu sou Leonardo Bruno, Atualmente estou estagiando na área e estou muito focado em todo o processo, na busca de aprender e evoluir cada 
+  vez mais. <br>
+  Tecnologias que uso e estou em constante aprendizado no dia a dia:
+  - <img src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <br>
  
+ 
+
+  Já fiz alguns cursos e desenvolvi alguns projetos básicos com o uso de:
   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt ="html-logo"/>
   - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   - <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  
-  Além disso estou iniciando os estudos com:
-  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js-logo"/>
-  - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
-  Para assim, potencializar meus projetos. :fire:
-  
   <br>
   
   ## Conecte-se comigo: <br>
