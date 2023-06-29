@@ -2,7 +2,7 @@
 
   Eu sou Leonardo Bruno, Atualmente estou estagiando na área e estou muito focado em todo o processo, na busca de aprender e evoluir cada 
   vez mais. <br>
-  Tecnologias que uso e estou em constante aprendizado no dia a dia:
+  Tecnologias que uso e estou em constante aprendizado no dia a dia da empresa:
   - <img src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   - <img src = "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <br>
