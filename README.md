@@ -4,6 +4,7 @@
   vez mais. <br>
   Tecnologias que uso e estou em constante aprendizado no dia a dia:
   - <img src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  - <img src = "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <br>
  
  
