@@ -17,7 +17,7 @@
   
   ## Conecte-se comigo: <br>
   
-  - <a href="https://www.linkedin.com/in/leonardo-bruno-2905a424b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/><a/>
+  - <a href="www.linkedin.com/in/leonardo-bruno-josé-vieira-batista-2905a424b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/><a/>
   
   
   
